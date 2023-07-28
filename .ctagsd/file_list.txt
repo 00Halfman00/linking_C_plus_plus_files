@@ -1,0 +1,3 @@
+/Users/oscarsanchez/CPP/section13/implementingMethods2/main.cpp
+/Users/oscarsanchez/CPP/section13/implementingMethods2/Turtle.h
+/Users/oscarsanchez/CPP/section13/implementingMethods2/Turtle.cpp

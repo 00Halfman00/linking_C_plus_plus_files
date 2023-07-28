@@ -1,0 +1,13 @@
+[{
+  "file": "/Users/oscarsanchez/CPP/section13/implementingMethods2/main.cpp",
+  "directory": "/Users/oscarsanchez/CPP/section13/implementingMethods2",
+  "command": "/usr/bin/g++ -c /Users/oscarsanchez/CPP/section13/implementingMethods2/main.cpp -o /Users/oscarsanchez/CPP/section13/implementingMethods2/main.cpp.o -target x86_64-apple-darwin22.5.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/Users/oscarsanchez/CPP/section13/implementingMethods2/Turtle.h",
+  "directory": "/Users/oscarsanchez/CPP/section13/implementingMethods2",
+  "command": "/usr/bin/g++ -c /Users/oscarsanchez/CPP/section13/implementingMethods2/Turtle.h -o /Users/oscarsanchez/CPP/section13/implementingMethods2/Turtle.h.o -target x86_64-apple-darwin22.5.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/Users/oscarsanchez/CPP/section13/implementingMethods2/Turtle.cpp",
+  "directory": "/Users/oscarsanchez/CPP/section13/implementingMethods2",
+  "command": "/usr/bin/g++ -c /Users/oscarsanchez/CPP/section13/implementingMethods2/Turtle.cpp -o /Users/oscarsanchez/CPP/section13/implementingMethods2/Turtle.cpp.o -target x86_64-apple-darwin22.5.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
